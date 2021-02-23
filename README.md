@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rocketpay
 
 To start your Phoenix server:
@@ -17,3 +18,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# NLW4-Elixir
+Repo for NLW#04 Trilha Elixir
+>>>>>>> f85f95925c1c718f444685a540b8588dcfc3a612
